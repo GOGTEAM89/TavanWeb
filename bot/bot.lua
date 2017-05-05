@@ -95,7 +95,7 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {338345804,245852578,0}, --ID shoma 
+    sudo_users = {338345804,245852578}, --ID shoma 
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
